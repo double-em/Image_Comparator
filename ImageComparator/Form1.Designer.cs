@@ -1,4 +1,4 @@
-﻿namespace ImageComparator
+﻿namespace ImageComparatorApp
 {
     partial class Form1
     {
